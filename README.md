@@ -48,15 +48,15 @@ A responsive and user-friendly OTP (One-Time Password) verification interface bu
 
 otp-verification-ui/
 ├── assets/
-│   ├── otp-ui.png                   # Default desktop UI
-│   ├── otp-success.png              # Verified successfully message
-│   ├── otp-invalid.png              # Invalid OTP entered
-│   ├── otp-incomplete.png           # 6-digit OTP not entered
-│   └── otp-mobile.png               # Mobile view screenshot
-├── index.html                  # Main HTML structure
-├── style.css                   # All styles for layout and responsiveness
-├── script.js                   # JS logic for OTP input and validation
-└── README.md                   # Project overview and setup
+│   ├── otp-ui.png
+│   ├── otp-success.png
+│   ├── otp-invalid.png
+│   ├── otp-incomplete.png
+│   └── otp-mobile.png
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
 ## How to Run
 
