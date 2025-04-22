@@ -41,6 +41,9 @@ A responsive and user-friendly OTP (One-Time Password) verification interface bu
 ** 6 Digit OTP Error Message**
 ![OTP Incomplete](./assets/otp-incomplete.png)
 
+** Mobile View Screenshot**
+![OTP Mobile](./assets/otp-mobile.png)
+
 ## Folder Structure
 
 otp-verification-ui/
@@ -65,7 +68,18 @@ otp-verification-ui/
 ## Live Demo
 
 Check out the live OTP Verification UI here:  
-[Live Site on Netlify](https://your-netlify-link.netlify.app)
+[Live Site on Netlify](https://otp-varification-ui.netlify.app/)
+
+## 🔐 Test OTP
+
+Use the following OTP to see a successful verification: 123456
+
+## 🧪 How to Test
+
+- Enter any **6-digit OTP**
+- To see success message, enter: 123456
+- Any other value will show an invalid OTP message.
+
 
 ## Description (Short)
 
